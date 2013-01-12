@@ -1,0 +1,22 @@
+<resources>
+    <string name="phone_number">phone_number</string>
+    <string name="message_value">message_value</string>
+    <string name="show_notification">show_notification</string>
+    <string name="monday_enabled">monday_enabled</string>
+    <string name="monday_time">monday_time</string>
+    <string name="tuesday_enabled">tuesday_enabled</string>
+    <string name="tuesday_time">tuesday_time</string>
+    <string name="wednesday_enabled">wednesday_enabled</string>
+    <string name="wednesday_time">wednesday_time</string>
+    <string name="thursday_enabled">thursday_enabled</string>
+    <string name="thursday_time">thursday_time</string>
+    <string name="friday_enabled">friday_enabled</string>
+    <string name="friday_time">friday_time</string>
+    <string name="saturday_enabled">saturday_enabled</string>
+    <string name="saturday_time">saturday_time</string>
+    <string name="sunday_enabled">sunday_enabled</string>
+    <string name="sunday_time">sunday_time</string>
+    <bool name="default_enabled">false</bool>
+    <bool name="default_notification">true</bool>
+    <string name="default_time">6:00</string>
+</resources>

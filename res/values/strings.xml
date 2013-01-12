@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Автозапуск</string>
+    <string name="phone">Номер телефона</string>
+    <string name="message">Текст сообщения</string>
+    <string name="notification">Уведомлять об отправке</string>
+    <string name="time">Время запуска</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="sent">Отправлено</string>
+    <string name="fail">Ошибка отправки</string>
+</resources>
